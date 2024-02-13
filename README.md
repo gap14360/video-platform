@@ -16,7 +16,7 @@ Testing and Quality Assurance: Thorough testing, including unit tests, integrati
 
 Installation
 
-Clone the repository: git clone https://github.com/yourusername/video-platform.git
+Clone the repository: git clone [https://github.com/yourusername/video-platform.git](https://github.com/gap14360/video-platform/
 Navigate to the project directory: cd video-platform
 Install dependencies: npm install or yarn install
 Configure environment variables: Create a .env file and set up environment variables such as database connection details, API keys, etc.
